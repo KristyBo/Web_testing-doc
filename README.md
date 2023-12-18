@@ -1,10 +1,10 @@
 # Web_testing-doc
 
-#Создание тестовой документации
+# Создание тестовой документации
 
-1/Составить [Чек-лист](https://docs.google.com/spreadsheets/d/18HGSTn9b5m__zWHrzo0H5doWQEKGT_nAW5ousI_Fu4M/edit?usp=sharing) на главную страницу для сайта https://demo.guru99.com/telecom/index.html
+1/ Составить [Чек-лист](https://docs.google.com/spreadsheets/d/18HGSTn9b5m__zWHrzo0H5doWQEKGT_nAW5ousI_Fu4M/edit?usp=sharing) на главную страницу для сайта https://demo.guru99.com/telecom/index.html
 
-2/Тестирование интернет-магазина
+2/ Тестирование интернет-магазина
 В рамках задания провести тестирование интернет-магазина и подготовить ряд тестовой документации http://demowebshop.tricentis.com/
 
 Основные функции веб-приложения:
@@ -23,4 +23,7 @@
 Создать краткий [тест-план](https://docs.google.com/spreadsheets/d/1OL1BK37B5A78zBF0xmYlkO3dKty66r1VNgj1vvfLSSM/edit#gid=0), в котором необходимо описать что и как нужно тестировать (функции, виды тестирования, инструменты), основные этапы работы, риски.
 
 Составить [чек-лист на тестирование корзины и модуля оплаты](https://docs.google.com/spreadsheets/d/1OL1BK37B5A78zBF0xmYlkO3dKty66r1VNgj1vvfLSSM/edit#gid=1561992636). 
+
+3/ Напишите [тестовые кейсы](https://docs.google.com/spreadsheets/d/1R7PMDNq_oRWsfBp1pCdIO6m5eL1DVipFOsgKimc2nuA/edit#gid=0) для тестирования запросов коллекции для 4 методов из блока store для сервиса https://petstore.swagger.io/ в Postman.
+
 
